@@ -31,8 +31,7 @@ Project Link: https://kind-bay-08609cf10.1.azurestaticapps.net/
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/84721888/175780994-fc4d4446-89e7-400c-9167-c286d4132205.png)
 ![Screenshot (3)](https://user-images.githubusercontent.com/84721888/175780996-8760f9ed-d3c8-40b1-844a-bc188231ed5c.png)
-![Screenshot (7)](https://user-images.githubusercontent.com/84721888/175780997-c95df132-427a-4c02-bf26-259c4a25fb15.png)
 ![Screenshot (9)](https://user-images.githubusercontent.com/84721888/175780998-2385f5f8-d905-4fd2-ad3b-f612aaea66ae.png)
 ![Screenshot (10)](https://user-images.githubusercontent.com/84721888/175781000-2e6b2035-2268-436f-9d81-4764a4ded58a.png)
 ![Screenshot (11)](https://user-images.githubusercontent.com/84721888/175781001-51c96f13-a0bf-4e21-ba9d-702c505649c6.png)
-
+![Screenshot (7)](https://user-images.githubusercontent.com/84721888/175780997-c95df132-427a-4c02-bf26-259c4a25fb15.png)
