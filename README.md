@@ -1,3 +1,4 @@
+
 # PMS(publicity marketing managment system)-BOT :
 
 This project is about the website to  taken where the brand makes better promotions with publicity.
@@ -24,8 +25,13 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 
 6.Custom domains to provide branded customizations to your app.
 
-Project Link:
+Project Link: https://kind-bay-08609cf10.1.azurestaticapps.net/
 
 # Sample images of the project :
 
-
+![Screenshot (2)](https://user-images.githubusercontent.com/84721888/175780768-245defb2-12ee-44f0-8f4a-9b7bf01bf80f.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/84721888/175780773-7ad2884c-ca08-4820-9748-834db515bb75.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/84721888/175780775-7fca910d-2424-4699-8643-8204d0ffa8ef.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/84721888/175780776-d20a9e6e-6562-415d-a5fd-d9f55c32dc0d.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/84721888/175780777-bab92087-124c-4db6-9179-de67eef3781d.png)
+![image_2022-06-25_211223745](https://user-images.githubusercontent.com/84721888/175780820-80c02a28-0c43-47c4-a849-691e798edd25.png)
